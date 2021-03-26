@@ -13,10 +13,11 @@ body
 #cabecera
 {
 	background: #33A;
-border-radius: 1px 
+border-radius: 1px ;
 	color: white;
 	margin:0;
 	padding: 11px;
+
 }
 .container{
 	width: 70%;
