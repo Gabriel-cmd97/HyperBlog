@@ -1,4 +1,5 @@
 Este es un repositorio 
 para comits
-prueba 1
-esto me servira mas adelante.
+prueba 2
+esto me servira mas adelante
+ahora creamo sun segunda prueba.
