@@ -1,6 +1,17 @@
 bdy
 {
-	color: deepink;
+	
 	text-align: center;
 	font-family: "Arial";
+}
+
+.container{
+	width: 70%;
+	text-align: left;
+	padding: 3rem;
+	border: 1px solid black;
+	margin: 0 auto;
+}
+h1{
+	font-size: 30px;
 }
